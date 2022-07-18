@@ -23,7 +23,7 @@ ipython @ file:///C:/ci/ipython_1657652657542/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 itsdangerous==2.1.2
 jedi @ file:///C:/ci/jedi_1644315425835/work
-Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
+Jinja2==3.0.1
 joblib==1.1.0
 jsonschema @ file:///C:/ci/jsonschema_1650026220037/work
 jupyter-client @ file:///C:/ci/jupyter_client_1650534470695/work
